@@ -18,4 +18,5 @@ Projenin sonraki aşamalarında eklenecek ve tamamlanacak özellikler:
 ## 💻 Kullanılan Teknolojiler
 * **Dil:** C#
 * **IDE:** Visual Studio
-
+### 🎥 Proje Videosu
+[Projenin arayüz ve çalışma testini izlemek için buraya tıklayın](https://youtube.com/shorts/QHE_QC922lA?si=FSXl6dnR-OfXVjw-)
